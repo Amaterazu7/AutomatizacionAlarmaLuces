@@ -4,7 +4,7 @@
  Titulo del Proyecto: Sistema de Automatización de Alarma y Luces 
  Autor: Diego Leonel Cañete
  Profesor: Diego Azcurra
- Cátedra: Sistemas Distribuidos
+ Cátedra: Sistemas Embebidos
  Started Date: 06/11/2017
  Día del Desarrollo: 10/12/2017
  Versión: 1.7
