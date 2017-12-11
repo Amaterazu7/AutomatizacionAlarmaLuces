@@ -10,7 +10,7 @@
  Versión: 1.7
  Día de la Revisión: 11/12/2017
 ```
-Sobre este mismo directorio voy a dejar el documento .pdf del proyecto y además, aquí abajo voy a explicar el árbol de directorios del proyecto que se encuentran dentro del archivo AutomatizacionAlarmaLuces.zip.
+Sobre este mismo directorio voy a dejar el documento .pdf del proyecto y además, aquí abajo voy a explicar el árbol de directorios del proyecto (el archivo AutomatizacionAlarmaLuces.zip posee los mismos directorios).
 
 ## AutomatizacionAlarmaLuces
 
