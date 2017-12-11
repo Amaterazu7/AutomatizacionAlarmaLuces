@@ -38,4 +38,4 @@ Aquí se encuentran dos archivos con el modelo esquematico de las conexiones con
 
 ## Video
 
-Aquí se encuentran las librerias para Arduino que use para desarrollar el proyecto. 
+Aquí se encuentra un video demostrativo del proyecto desarrollado en Arduino Mega 2560. 
